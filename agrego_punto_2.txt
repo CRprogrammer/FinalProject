@@ -1,3 +1,4 @@
 forms de asientos , cartelera para seleccion de pelicula , facturacion y visualizacion de datos de datos de peliculas.
 falta solo coneccion con base de datos y pequeños detalles visuales 
 posibles futuros cambios de codigo en estos dias
+maquina vieja , falta en modificar unas cosas igual conectar a la base de datos y agregar unas cositas pequeñas 

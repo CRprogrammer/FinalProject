@@ -1,0 +1,6 @@
+c:\users\jesus\documents\visual studio 2015\Projects\maquinavieja\maquinavieja\bin\Debug\maquinavieja.exe.config
+c:\users\jesus\documents\visual studio 2015\Projects\maquinavieja\maquinavieja\bin\Debug\maquinavieja.exe
+c:\users\jesus\documents\visual studio 2015\Projects\maquinavieja\maquinavieja\bin\Debug\maquinavieja.pdb
+c:\users\jesus\documents\visual studio 2015\Projects\maquinavieja\maquinavieja\obj\Debug\maquinavieja.csprojResolveAssemblyReference.cache
+c:\users\jesus\documents\visual studio 2015\Projects\maquinavieja\maquinavieja\obj\Debug\maquinavieja.exe
+c:\users\jesus\documents\visual studio 2015\Projects\maquinavieja\maquinavieja\obj\Debug\maquinavieja.pdb
