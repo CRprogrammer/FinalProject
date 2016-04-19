@@ -1,0 +1,4 @@
+agrego actualizacion version 1.1
+todos los form correspondientes al punto 3 para la administracion de la base de datos y toda la informacion correspondiente a cine
+para usuarios , peliculas y sales , inicio de seccion, usuarios y creacion de nuevo usuario
+Nota : solo falta la conecion con la base de datos y la implementacion del sistema para poder subir las imagenes de nuevas peliculas desde administrador para mostrarse en cartelera
