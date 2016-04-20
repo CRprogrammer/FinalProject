@@ -1,0 +1,22 @@
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\bin\Debug\CineMellRose.exe.config
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\bin\Debug\CineMellRose.exe
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\bin\Debug\CineMellRose.pdb
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.csprojResolveAssemblyReference.cache
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.Properties.Resources.resources
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.csproj.GenerateResource.Cache
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.exe
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.pdb
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.Test.resources
+G:\Usuarios\Oscar\Documentos\Visual Studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.Cartelera3.resources
+G:\Usuarios\Oscar\Documentos\Visual Studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.Cartelera2.resources
+G:\Usuarios\Oscar\Documentos\Visual Studio 2015\Projects\CineMellRose\CineMellRose\obj\Debug\CineMellRose.Cartelera1.resources
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\bin\Debug\CineMellRose.exe.config
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\obj\Debug\CineMellRose.exe
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\obj\Debug\CineMellRose.pdb
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\bin\Debug\CineMellRose.exe
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\bin\Debug\CineMellRose.pdb
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\obj\Debug\CineMellRose.csprojResolveAssemblyReference.cache
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\obj\Debug\CineMellRose.Cartelera1.resources
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\obj\Debug\CineMellRose.Properties.Resources.resources
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\obj\Debug\CineMellRose.Test.resources
+C:\Users\jesus\Desktop\CineMellRose\CineMellRose\obj\Debug\CineMellRose.csproj.GenerateResource.Cache
